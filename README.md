@@ -1,3 +1,4 @@
 # message-incrypt-tool
-
-hello
+# How to install
+# Termux
+# Linux or Windows
